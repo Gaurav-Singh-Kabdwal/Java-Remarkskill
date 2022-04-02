@@ -12,4 +12,3 @@ c= a+b;
 System.out.println("Addition is : " +c);
 }
 }
-//after commiting
